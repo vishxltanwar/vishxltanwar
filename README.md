@@ -6,12 +6,13 @@
 
 <p align="center">
 <img src="https://img.shields.io/github/followers/vishxltanwar?style=for-the-badge&color=6A11CB&logo=github&label=Followers" alt="followers"/>
-<img src="https://img.shields.io/badge/Status-Open_to_Work-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" alt="open to work"/>
+<img src="https://img.shields.io/badge/Focus-Data_Analytics-FF4D8D?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data analytics"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-2EA44F?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to work"/>
 </p>
 
 ---
 
-### 💫 Curious About Data, Driven by Code
+<h2 align="center">💫 Curious About Data, Driven by Code</h2>
 
 I enjoy turning **messy data into clear answers** and simple ideas into working code. Some days that means exploring a dataset with Python, other days it means writing a better SQL query or designing a dashboard that makes the important details impossible to miss.
 
@@ -45,21 +46,61 @@ Small tools that make work easier
 
 ---
 
-### 🛠️ Tech Stack
+<h2 align="center">🌟 Featured Work</h2>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3 align="center">📊 HR Analytics</h3>
+<p align="center"><strong>Power BI · DAX · Power Query</strong></p>
+Interactive dashboard exploring employee distribution, salary trends, tenure, and workforce insights.
+<br><br>
+<p align="center"><a href="https://github.com/vishxltanwar/HR-Analytics-PowerBI"><strong>Explore project →</strong></a></p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">🎬 Netflix EDA</h3>
+<p align="center"><strong>Python · Pandas · Jupyter</strong></p>
+Exploratory analysis of content types, genres, countries, ratings, and platform growth.
+<br><br>
+<p align="center"><a href="https://github.com/vishxltanwar/netflix-data-analysis"><strong>Explore project →</strong></a></p>
+</td>
+<td width="33%" valign="top">
+<h3 align="center">🛒 Sales Analysis</h3>
+<p align="center"><strong>SQL · Queries · Insights</strong></p>
+A focused SQL mini-project for exploring customer and sales data through practical business questions.
+<br><br>
+<p align="center"><a href="https://github.com/vishxltanwar/sql-customer-sales-analysis"><strong>Explore project →</strong></a></p>
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">🧰 My Toolkit</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,html,mysql,postgres,django,flutter,dart,firebase,git,aws,vscode" />
+<strong>Data &amp; Analytics</strong><br><br>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="DAX"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </p>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<p align="center">
+<strong>Databases &amp; Backend</strong><br><br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
+</p>
+
+<p align="center">
+<strong>Development</strong><br><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,flutter,dart,firebase,aws" alt="Git, GitHub, VS Code, Flutter, Dart, Firebase and AWS" />
+</p>
 
 <p align="center">
 <img src="./profile/code-pulse.svg" width="100%" alt="Animated data and coding technologies" />
@@ -67,7 +108,7 @@ Small tools that make work easier
 
 ---
 
-### 📊 GitHub Stats
+<h2 align="center">📊 GitHub Activity</h2>
 
 <p align="center">
 <img height="165em" src="./profile/stats.svg" alt="Vishal's GitHub stats"/>
@@ -80,7 +121,7 @@ Small tools that make work easier
 
 ---
 
-### 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Trail</h2>
 
 <p align="center">
 <picture>
@@ -92,7 +133,7 @@ Small tools that make work easier
 
 ---
 
-### 🌐 Connect With Me
+<h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
 <a href="https://linkedin.com/in/vishal-tanwar70"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
