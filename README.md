@@ -1,21 +1,94 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Data analysis projects using **Excel, SQL, and Python**, and building a strong portfolio for analyst roles.<br><br>👯 I’m looking to collaborate on  <br>Beginner-friendly **data analytics projects**, SQL case studies, dashboards, and real-world business problem solving.<br><br>🤝 I’m looking for help with  <br>Improving **Python for data analysis**, project structuring, and best practices for analyst portfolios.<br><br>🌱 I’m currently learning  <br>**Python (pandas, numpy)**, data visualization, and practical analytics workflows.<br><br>💬 Ask me about  <br>**SQL queries, Excel analysis, basic data projects, MES concepts**, and getting started in analytics.<br><br>⚡ Fun fact  <br>I transitioned from a **technical/MES background** toward data analytics because I enjoy turning raw data into insights 📊<br>
+<h1 align="center">Hi 👋, I'm Vishal Tanwar</h1>
+<h3 align="center">MES Engineer → Data Analyst | Turning shop-floor data into business insight</h3>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=SQL+%2B+Python+%2B+Power+BI;Manufacturing+Execution+Systems;Building+dashboards+that+drive+decisions;Currently%3A+GET+at+Napino+Control+Systems" alt="Typing SVG" /></a>
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ZM6RrRvH) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VishalTanwar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vishxl.tanwar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal-tanwar70) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/vishaltanwar) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/vishalxtanwar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/notvishaltanwar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanwarvishal8971@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vishxltanwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vishxltanwar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishxltanwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishxltanwar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vishxltanwar&color=blueviolet&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvishxltanwar&style=flat-square" alt="followers"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vishxltanwar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+- 🔭 Working as a **Graduate Engineering Trainee** at Napino Control Systems, building **NCS_MES** (Django + PostgreSQL Manufacturing Execution System)
+- 📊 Building a **Data Analyst portfolio** — SQL, Python (Pandas/NumPy), Power BI, DAX
+- 🎯 Targeting **Data Analyst / Business Analyst** roles
+- 🌱 Currently sharpening Python for analytics + real-world dashboarding workflows
+- 🤝 Open to collaborating on beginner-friendly analytics projects, SQL case studies, dashboards
+- 💬 Ask me about SQL, Excel, MES/manufacturing systems, or breaking into analytics
+- ⚡ Fun fact: I went from factory-floor systems to spreadsheets — same instinct, different data
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,html,mysql,postgres,django,flutter,dart,firebase,git,aws,vscode" />
+</p>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vishxltanwar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishxltanwar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=vishxltanwar&theme=tokyonight&hide_border=true" alt="streak stats"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishxltanwar&theme=tokyo-night&hide_border=true" alt="activity graph"/>
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vishxltanwar&theme=tokyonight&no-frame=true&margin-w=8&row=1" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/vishxltanwar/vishxltanwar/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+> ⚙️ Snake animation needs a one-time GitHub Actions setup — say the word and I'll generate the workflow file for it.
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/vishal-tanwar70"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/notvishaltanwar"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+<a href="https://instagram.com/vishxl.tanwar"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://discord.gg/ZM6RrRvH"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+<a href="https://reddit.com/user/vishaltanwar"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
+<a href="https://twitch.tv/vishalxtanwar"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"/></a>
+<a href="mailto:tanwarvishal8971@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center"><i>💡 Turning raw data into decisions, one query at a time.</i></p>
