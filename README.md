@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=200&section=header&text=Vishal%20Tanwar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MES%20Engineer%20%E2%86%92%20Data%20Analyst&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=200&section=header&text=Vishal%20Tanwar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%E2%80%A2%20Code%20%E2%80%A2%20Curiosity&descAlignY=58&descSize=20" width="100%"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=SQL+%2B+Python+%2B+Power+BI;Manufacturing+Execution+Systems;Building+dashboards+that+drive+decisions;Currently%3A+GET+at+Napino+Control+Systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Enjoying+data+and+coding;Turning+messy+data+into+clear+answers;Learning+by+building+real+projects;One+query%2C+one+insight+at+a+time" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -11,16 +11,16 @@
 
 ---
 
-### 💫 From the Factory Floor to Data Stories
+### 💫 Curious About Data, Driven by Code
 
-Most people meet data in a dashboard. I met it on the **factory floor**—where one missing scan, delayed update, or incorrect record can affect real production. That experience sparked my move toward analytics: finding the story behind the numbers and turning it into something people can act on.
+I enjoy turning **messy data into clear answers** and simple ideas into working code. Some days that means exploring a dataset with Python, other days it means writing a better SQL query or designing a dashboard that makes the important details impossible to miss.
 
 <table>
 <tr>
 <td width="33%" align="center">
-<strong>🏭 What I'm Building</strong><br><br>
-<strong>NCS_MES</strong> at Napino Control Systems<br>
-Django · PostgreSQL · Manufacturing
+<strong>🧩 What I Enjoy</strong><br><br>
+Solving problems · Finding patterns<br>
+Writing clean, useful code
 </td>
 <td width="33%" align="center">
 <strong>📊 What I'm Exploring</strong><br><br>
@@ -28,16 +28,16 @@ SQL case studies · Python analysis<br>
 Power BI · DAX · Dashboard design
 </td>
 <td width="33%" align="center">
-<strong>🎯 Where I'm Headed</strong><br><br>
-Data Analyst / Business Analyst roles<br>
-that connect operations with insights
+<strong>🚀 What I'm Creating</strong><br><br>
+Dashboards · Analysis projects<br>
+Small tools that make work easier
 </td>
 </tr>
 </table>
 
 > 💡 **My favourite kind of problem:** messy operational data that needs a clear, useful answer.
 
-🤝 I'm always happy to talk about **SQL, Excel, manufacturing systems, dashboards**, or the journey into data analytics.
+🤝 I'm always happy to talk about **SQL, Excel, dashboards, coding projects**, or the journey into data analytics.
 
 ---
 
