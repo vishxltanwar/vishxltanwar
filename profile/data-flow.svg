@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-labelledby="title desc">
+  <title id="title">From raw data to clear insight</title>
+  <desc id="desc">An animated signal travels through raw data, patterns, and insight.</desc>
+  <defs>
+    <linearGradient id="flow" x1="0" x2="1">
+      <stop offset="0" stop-color="#2e9ef7"/>
+      <stop offset="0.5" stop-color="#8a2be2"/>
+      <stop offset="1" stop-color="#ff4d8d"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <path id="route" d="M150 48 C260 10 330 86 450 48 S650 10 750 48"/>
+  </defs>
+
+  <use href="#route" fill="none" stroke="url(#flow)" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 10" opacity="0.45">
+    <animate attributeName="stroke-dashoffset" from="36" to="0" dur="2s" repeatCount="indefinite"/>
+  </use>
+
+  <g fill="#0d1117" stroke-width="3">
+    <circle cx="150" cy="48" r="16" stroke="#2e9ef7"/>
+    <circle cx="450" cy="48" r="16" stroke="#8a2be2"/>
+    <circle cx="750" cy="48" r="16" stroke="#ff4d8d"/>
+  </g>
+
+  <g fill="none" stroke-width="2" opacity="0">
+    <circle cx="150" cy="48" r="16" stroke="#2e9ef7">
+      <animate attributeName="r" values="16;29;16" dur="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0;0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="48" r="16" stroke="#8a2be2">
+      <animate attributeName="r" values="16;29;16" dur="3s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0;0" dur="3s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="750" cy="48" r="16" stroke="#ff4d8d">
+      <animate attributeName="r" values="16;29;16" dur="3s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.9;0;0" dur="3s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <circle r="6" fill="#ffffff" filter="url(#glow)">
+    <animateMotion dur="3s" repeatCount="indefinite"><mpath href="#route"/></animateMotion>
+  </circle>
+
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+    <text x="150" y="91" fill="#58a6ff">RAW DATA</text>
+    <text x="450" y="91" fill="#b77cff">FIND PATTERNS</text>
+    <text x="750" y="91" fill="#ff7aa8">CLEAR INSIGHT</text>
+  </g>
+</svg>

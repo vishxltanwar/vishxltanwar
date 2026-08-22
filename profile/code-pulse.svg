@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="78" viewBox="0 0 900 78" role="img" aria-labelledby="title desc">
+  <title id="title">Data and coding toolkit</title>
+  <desc id="desc">SQL, Python, Power BI, and curiosity light up in sequence.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#2e9ef7" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#8a2be2"/>
+      <stop offset="1" stop-color="#ff4d8d" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-100%" width="200%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <path d="M40 39 H860" stroke="url(#line)" stroke-width="2"/>
+
+  <g font-family="JetBrains Mono, Consolas, monospace" font-size="16" font-weight="700" text-anchor="middle">
+    <g transform="translate(150 44)">
+      <circle r="27" fill="#0d1117" stroke="#2e9ef7" stroke-width="2"/>
+      <text y="6" fill="#58a6ff">SQL</text>
+      <circle r="27" fill="none" stroke="#2e9ef7" stroke-width="3" filter="url(#softGlow)">
+        <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.12;0.25;1" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="27;32;27;27" keyTimes="0;0.12;0.25;1" dur="4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g transform="translate(350 44)">
+      <circle r="27" fill="#0d1117" stroke="#6a5acd" stroke-width="2"/>
+      <text y="6" fill="#a99cff">PY</text>
+      <circle r="27" fill="none" stroke="#8a2be2" stroke-width="3" filter="url(#softGlow)">
+        <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.22;0.37;0.5;1" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="27;27;32;27;27" keyTimes="0;0.22;0.37;0.5;1" dur="4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g transform="translate(550 44)">
+      <circle r="27" fill="#0d1117" stroke="#d946ef" stroke-width="2"/>
+      <text y="6" fill="#e879f9">BI</text>
+      <circle r="27" fill="none" stroke="#d946ef" stroke-width="3" filter="url(#softGlow)">
+        <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.47;0.62;0.75;1" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="27;27;32;27;27" keyTimes="0;0.47;0.62;0.75;1" dur="4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g transform="translate(750 44)">
+      <circle r="27" fill="#0d1117" stroke="#ff4d8d" stroke-width="2"/>
+      <text y="6" fill="#ff7aa8">?</text>
+      <circle r="27" fill="none" stroke="#ff4d8d" stroke-width="3" filter="url(#softGlow)">
+        <animate attributeName="opacity" values="0;0;1;0" keyTimes="0;0.72;0.87;1" dur="4s" repeatCount="indefinite"/>
+        <animate attributeName="r" values="27;27;32;27" keyTimes="0;0.72;0.87;1" dur="4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+</svg>

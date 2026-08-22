@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6A11CB&height=200&section=header&text=Vishal%20Tanwar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20%E2%80%A2%20Code%20%E2%80%A2%20Curiosity&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:8A2BE2,100:FF4D8D&height=220&section=header&text=Vishal%20Tanwar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Turning%20Curiosity%20into%20Code%20%E2%80%A2%20Data%20into%20Clarity&descAlignY=57&descSize=21" width="100%" alt="Vishal Tanwar — Turning curiosity into code and data into clarity"/>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Enjoying+data+and+coding;Turning+messy+data+into+clear+answers;Learning+by+building+real+projects;One+query%2C+one+insight+at+a+time" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=800&color=F85D7F&center=true&vCenter=true&width=720&lines=I+enjoy+data+%2B+coding+%E2%9C%A8;Turning+messy+data+into+clear+answers;Learning+by+building%2C+one+project+at+a+time;Think+%E2%86%92+Code+%E2%86%92+Measure+%E2%86%92+Improve" alt="Animated introduction" /></a>
 </p>
 
 <p align="center">
@@ -39,6 +39,10 @@ Small tools that make work easier
 
 🤝 I'm always happy to talk about **SQL, Excel, dashboards, coding projects**, or the journey into data analytics.
 
+<p align="center">
+<img src="./profile/data-flow.svg" width="100%" alt="Animated path from raw data to insight" />
+</p>
+
 ---
 
 ### 🛠️ Tech Stack
@@ -56,6 +60,10 @@ Small tools that make work easier
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<p align="center">
+<img src="./profile/code-pulse.svg" width="100%" alt="Animated data and coding technologies" />
+</p>
 
 ---
 
