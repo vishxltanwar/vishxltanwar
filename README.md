@@ -44,8 +44,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=vishxltanwar&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github&cache_seconds=86400"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishxltanwar&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/>
+<img height="165em" src="./profile/stats.svg" alt="Vishal's GitHub stats"/>
+<img height="165em" src="./profile/top-langs.svg" alt="Vishal's top languages"/>
 </p>
 
 <p align="center">
@@ -57,7 +57,7 @@
 ### 🏆 Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vishxltanwar&theme=radical&no-frame=true&no-bg=true&row=1&column=6" />
+<img src="./profile/trophies.svg" alt="Vishal's GitHub trophies" />
 </p>
 
 ---
@@ -65,7 +65,11 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/vishxltanwar/vishxltanwar/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/github-contribution-grid-snake.svg" />
+  <img src="./profile/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</picture>
 </p>
 
 ---
