@@ -11,15 +11,33 @@
 
 ---
 
-### 💫 About Me
+### 💫 From the Factory Floor to Data Stories
 
-- 🔭 Working as a **Graduate Engineering Trainee** at Napino Control Systems, building **NCS_MES** (Django + PostgreSQL Manufacturing Execution System)
-- 📊 Building a **Data Analyst portfolio** — SQL, Python (Pandas/NumPy), Power BI, DAX
-- 🎯 Targeting **Data Analyst / Business Analyst** roles
-- 🌱 Currently sharpening Python for analytics + real-world dashboarding workflows
-- 🤝 Open to collaborating on beginner-friendly analytics projects, SQL case studies, dashboards
-- 💬 Ask me about SQL, Excel, MES/manufacturing systems, or breaking into analytics
-- ⚡ Fun fact: I went from factory-floor systems to spreadsheets — same instinct, different data
+Most people meet data in a dashboard. I met it on the **factory floor**—where one missing scan, delayed update, or incorrect record can affect real production. That experience sparked my move toward analytics: finding the story behind the numbers and turning it into something people can act on.
+
+<table>
+<tr>
+<td width="33%" align="center">
+<strong>🏭 What I'm Building</strong><br><br>
+<strong>NCS_MES</strong> at Napino Control Systems<br>
+Django · PostgreSQL · Manufacturing
+</td>
+<td width="33%" align="center">
+<strong>📊 What I'm Exploring</strong><br><br>
+SQL case studies · Python analysis<br>
+Power BI · DAX · Dashboard design
+</td>
+<td width="33%" align="center">
+<strong>🎯 Where I'm Headed</strong><br><br>
+Data Analyst / Business Analyst roles<br>
+that connect operations with insights
+</td>
+</tr>
+</table>
+
+> 💡 **My favourite kind of problem:** messy operational data that needs a clear, useful answer.
+
+🤝 I'm always happy to talk about **SQL, Excel, manufacturing systems, dashboards**, or the journey into data analytics.
 
 ---
 
