@@ -54,14 +54,6 @@
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-<img src="./profile/trophies.svg" alt="Vishal's GitHub trophies" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
